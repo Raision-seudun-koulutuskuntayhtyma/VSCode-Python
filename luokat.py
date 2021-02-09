@@ -21,7 +21,7 @@ class Koodari:
 
     # Metodi joka tulostaa ruudulle viestin
     def oma_kehu(self):
-        print('Mä oon', self.etunimi, 'ja oon kova Python-koodari')
+        print('Mä oon', self.etunimi, 'ja oon paras koodari ikinä')
 
 # Luodaan koodari1-olio muodostimella
 koodari1 = Koodari('Jonne', 'Janttari')
